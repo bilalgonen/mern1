@@ -5,7 +5,7 @@ const mongoose = require("mongoose");
 // const path = require("path");
 
 // import routes
-// const authRoute = require("./routes/auth");
+const authRoute = require("./routes/auth");
 // const toDosRoute = require("./routes/todos");
 
 const app = express();
@@ -19,7 +19,7 @@ app.get("/", (req, res) => {
   res.send("Fullstack React Course Express Server");
 });
 
-// app.use("/api/auth", authRoute);
+app.use("/api/auth", authRoute);
 // app.use("/api/todos", toDosRoute);
 
 // app.use(express.static(path.resolve(__dirname, "./client/build")));
