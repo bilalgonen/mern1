@@ -13,3 +13,6 @@ npm i bcryptjs
 npm i validator
 
 npm i cookie-parser jsonwebtoken
+
+npx create-react-app@latest client
+npm i react-router-dom axios sass
