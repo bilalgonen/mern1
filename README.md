@@ -1,4 +1,8 @@
-# mern1
+# Bilal Gonen's ToDo List
+
+Demo: [https://bilal-todo1.herokuapp.com](https://bilal-todo1.herokuapp.com/)
+
+## Installed packages
 
 npm init --yes
 
