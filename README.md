@@ -2,22 +2,16 @@
 
 Demo: [https://bilal-todo1.herokuapp.com](https://bilal-todo1.herokuapp.com/)
 
-## Installed packages
+Developed in MERN (MongoDB, Express, React, Nodejs).
 
-npm init --yes
+# Screenshots
 
-npm i express dotenv
+![Edit an Item](./readme_images/edit_item.png)
 
-npm i --save-dev nodemon concurrently
+![add_items](./readme_images/add_items.png)
 
-npm i mongoose
+![adding_first_item](./readme_images/adding_first_item.png)
 
-npm i bcryptjs
+![register](./readme_images/register.png)
 
-npm i validator
-
-npm i cookie-parser jsonwebtoken
-
-npx create-react-app@latest client
-
-npm i react-router-dom axios sass
+![login.png](./readme_images/login.png)
